@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*hpp*hpp*h*h*h*hiterator": "cpp",
+        "iterator": "cpp"
+    }
+}
